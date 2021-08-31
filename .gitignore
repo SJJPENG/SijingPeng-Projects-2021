@@ -49,15 +49,3 @@ hs_err_pid*
 /*.iws
 
 .DS_Store
-*.exec
-*.html
-*.gif
-*.css
-*.js
-*.xml
-*.bin
-*.idx
-*.MF
-*.properties
-*.bat
-*.lock
